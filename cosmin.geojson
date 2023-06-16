@@ -6,7 +6,7 @@
       "properties": {
         "region": "Stockholm",
         "description": "https://en.wikipedia.org/wiki/Stockholm",
-        "img": "https://ibb.co/n0L9Qnc"
+        "img": "https://imgtr.ee/images/2023/06/16/Ya23U.png"
       },
       "geometry": {
         "type": "Point",
@@ -20,9 +20,9 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "Seville",
+        "region": "Lovo kyrka",
         "description": "https://en.wikipedia.org/wiki/Drottningholm",
-        "img": "https://ibb.co/n0L9Qnchttps://ibb.co/w4fg2nK"
+        "img": "https://imgtr.ee/images/2023/06/16/YaDqI.png"
       },
       "geometry": {
         "type": "Point",
@@ -36,9 +36,9 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "Santiago de Compostela",
+        "region": "Kiruna",
         "description": "https://en.wikipedia.org/wiki/Kiruna",
-        "img": "https://ibb.co/n0L9Qnchttps://ibb.co/w4fg2nKhttps://ibb.co/SwxhjHC"
+        "img": "https://imgtr.ee/images/2023/06/16/YaKKb.png"
       },
       "geometry": {
         "type": "Point",
