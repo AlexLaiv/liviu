@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Stockholm",
+        "description": "https://en.wikipedia.org/wiki/Stockholm",
+        "img": "https://ibb.co/n0L9Qnc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07109016276405,
+          59.325193650610146
+        ]
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Seville",
+        "description": "https://en.wikipedia.org/wiki/Drottningholm",
+        "img": "https://ibb.co/n0L9Qnchttps://ibb.co/w4fg2nK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.840196499999763,
+          59.32127163348491
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Santiago de Compostela",
+        "description": "https://en.wikipedia.org/wiki/Kiruna",
+        "img": "https://ibb.co/n0L9Qnchttps://ibb.co/w4fg2nKhttps://ibb.co/SwxhjHC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.228701519518495,
+          67.85482781989404
+        ]
+      },
+      "id": 2
+    }
+  ]
+}
