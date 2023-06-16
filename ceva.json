@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Kensington Gardens",
+        "description": "https://en.wikipedia.org/wiki/Kensington_Palace",
+        "img": "https://i.ibb.co/q7hzzGH/Kensington-Palace-the-South-Front-geograph-org-uk-287402.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1777553558349609,
+          51.50633846794094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "London Zoo",
+        "description": "https://en.wikipedia.org/wiki/London_Zoo",
+        "img": "https://i.ibb.co/m5mZHGn/ZSL-London-Zoo-in-the-Regent-s-Park-in-London-June-2013.jpg.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15552520751953125,
+          51.53181431790163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Battersea Park",
+        "description": "https://en.wikipedia.org/wiki/Battersea_Parka",
+        "img": "https://i.ibb.co/BNFMzBk/Southwest-View-of-the-Battersea-Park-Pagoda-02.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15672683715820312,
+          51.48010001366223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "London School of Hygiene & Tropical Medicine",
+        "description": "https://en.wikipedia.org/wiki/London_School_of_Hygiene_%26_Tropical_Medicine",
+        "img": "https://i.ibb.co/Y3JbPx7/Seamens-Hospital-Royal-Albert-Dock-London-3525901692.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13054847717285156,
+          51.52054688401746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Green Park",
+        "description": "https://ro.wikipedia.org/wiki/Green_Park",
+        "img": "https://i.ibb.co/zh20GFh/Green-Park-London-England.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14402389526367188,
+          51.50361379162682
+        ]
+      }
+    }
+  ]
+}
