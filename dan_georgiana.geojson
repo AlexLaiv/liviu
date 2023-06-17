@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Oslo",
+        "description": "https://en.wikipedia.org/wiki/Oslo",
+        "img": "https://imgtr.ee/images/2023/06/17/YY0F3.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739048270183929,
+          59.913436407363974
+        ]
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Bergen",
+        "description": "https://en.wikipedia.org/wiki/Bergen",
+        "img": "https://imgtr.ee/images/2023/06/17/YYaY0.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325973902496003,
+          60.394450531416624
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Stavanger",
+        "description": "https://en.wikipedia.org/wiki/Stavanger",
+        "img": "https://imgtr.ee/images/2023/06/17/YYJkL.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731816083828761,
+          58.96998466057212
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Trondheim",
+        "description": "https://en.wikipedia.org/wiki/Trondheim",
+        "img": "https://imgtr.ee/images/2023/06/17/YYlsF.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.395199553530546,
+          63.43123232401888
+        ]
+      },
+      "id": 3
+    }
+  ]
+}
